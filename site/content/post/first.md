@@ -1,5 +1,38 @@
 ---
-date: 2016-12-22T20:04:40.407Z
-title: First Post
+date: 2018-01-22T20:04:40.407Z
+title: 数字货币时代生存法则：简单了解比特币和区块链
 ---
-Tristique integer nulla, velit orci elementum posuere odit urna amet, vel est amet etiam pharetra curabitur. Risus feugiat pharetra sit dui tempor sed, malesuada metus, ut sociis elementum, placerat dolor curabitur velit. Fermentum nulla, lacus volutpat, et neque suscipit vel nisl at, suspendisse sed consectetuer in. Donec ut tellus massa, ipsum placerat tincidunt, nam nunc amet sit aenean, eleifend porttitor non fermentum. Wisi ultricies ante nec ac dignissim, in neque suscipit eu blandit et, quis imperdiet. Nulla massa velit turpis condimentum, sed vel leo magna dolor at vivamus, lorem metus odio euismod. Libero non leo. Vestibulum lacus iaculis rutrum sagittis ac, a purus, egestas turpis nulla posuere ut sed lacinia, tellus suspendisse massa et nostra. Nascetur hac, ipsum cum, sem eros, tellus suspendisse non. Netus pretium. Auctor integer ut quis urna vestibulum quis, vivamus ligula dictum vel, et amet auctor donec interdum sagittis, fusce mollis sociosqu sem aptent nullam, eu enim hymenaeos et. Ridiculus fusce interdum, vitae volutpat pulvinar mauris netus.
+最近比特币和区块链大热，很多人甚至年长的父母都问起比特币和区块链。我就简单易理解的把来龙去脉讲一讲。
+
+
+
+先说缘由，比如美国金融危机吧，华尔街的一些精英们变着戏法想出了各种金融工具，同时自己监守自盗大捞钱财，留下了一个巨大的窟窿，这个窟窿怎么填呢，美国就启动了印钞机，美曰其名“量化宽松”来填上这窟窿，美元可是全球流通货币，这不一印钞贬值，就是在全球减羊毛了，其他国家也没办法，只能跟着印，苦了各国老百姓都被减了羊毛，就国内来说，直接导致的就是国内房价一个涨不停，你省吃俭用买个房，其实也间接帮美立坚填窟窿。
+
+<!--more-->
+
+这时，一个叫中本聪的青年不服了，这咋行啊，美元就是一毒瘤，太胡作非为了，于是利用数学加密算法发明了一个不受任何人控制的数字货币比特币，也叫去中心化货币，规定总量2100万个，发行完就没了，就相当于用数学精妙的设计了一座金山让大家来挖，挖完就没了，谁也没权力和能力继续生产出货币。为什么不受任何人控制呢，因为它可以跑在全球无数台计算机上，利用共识机制和加密算法保证比特币账本不能被篡改，要改也行，但得全球所有超一大半节点都同意（51%攻击），由于各方为了自己的利益考虑，达不到这种情况。
+
+
+
+这2100万个比特币怎么发出去了，就是通过加入的节点提供算力争夺记账权生成记账区块给予奖励，越先提供算力的计算机获得的越多。当然，第一个加入的计算机是中本聪自己的计算机，通过创建首个记账区块（创世区块）挖了一大笔比特币，然后，他就把这个论文和想法告诉了大家。这可热开了锅，特别是憎恶集权控制的自由主义人士，这么好的东西，这可比黄金还具有货币属性，黄金说不定哪里又挖出一坨，说不定以后科技先进了还能生产伪造，另外，数字货币还具有无限分割特性。这一下子引来了很多追捧者，争先恐后用计算机运行比特币节点加入了挖矿者的行列。
+
+
+
+经过一段时间的发展，达到了一个质变，随着知道的人越来越多，黑客和勒索软件的助推，比特币迎来了巨量的增值，迎来了如今的爆发。
+
+再来说说区块链，比特币本质上通过记账区块的连接形成一个长的不可更改的数据链来实现，所以我们把比特币的支持技术称为区块链，有一个小伙叫小V，脑袋一拍，灵机一动想到，这么好的方法仅用于货币太可惜了，这不是可以做成一个不可更改的数据库和不可更改执行代码的巨大计算机使用吗？于是，天才小V发明了以太坊，可以存储数据和跑智能合同（不可更改的计算机代码），所有要用到以太坊功能的必须花费以太币，以太币可以通过提供以太节点挖矿获得。这下好了，各行各业都可以用以太坊存储可信数据和部署智能合同，由于天才小V的贡献，区块链技术一下子大火，甚至还可以发行代币筹措资金，就叫做初始代币发行，相当众筹或融资，前景不可估量。
+
+
+
+
+比特币和区块链的造富神话吸引了越来越多的人进去，打个比方，这就相当于深圳刚开股市，最先进去的人总是能赚到钱，只要不停有人相信，有人进去，比特币和其他区块链货币一样，只要不停有人相信有人进去，总是会增值的。你是不是心动了，但也要小心，骗子也很多，可能有鱼龙混杂的伪区块链货币，也有很多集资后圈钱跑路的。
+
+
+
+认清这些区块链货币和区块链项目需要一定的技术能力和甄别能力（懂技术，会读智能合同代码），所以一定要擦亮眼睛（不明白可以问问周边搞区块链技术的朋友），当然，比特币和以太币已经是公认的非常可信的区块链货币，发展的很好。
+
+
+
+谋策区块链 - 数字货币（比特币）时代生存法则
+
+(谋策区块链原创，转载请注明出处)
